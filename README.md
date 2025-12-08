@@ -2,9 +2,9 @@
   
 # 『 WELCOME TO THE DIGITAL FRONTIER 』
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00F7&random=false&width=435&lines=Full+Stack+Neural+Interface+Engineer;Coding+in+the+Neon-Lit+Digital+Realm)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1100&color=00E5FF&width=600&lines=Full+Stack+Developer;Building+Scalable+Systems+%26+High-Performance+Apps;Turning+Ideas+Into+Production-Ready+Solutions)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hariharan0007&color=ff00ff&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Hariharan0007&color=00e5ff&style=flat-square)
 
 </div>
 
@@ -42,6 +42,29 @@
 
 ---
 
+<div align="center">
+
+### 『 Productivity Snapshot 』
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hariharan0007&theme=radical" alt="summary"/>
+
+---
+
+## 『 Contribution Heatmap 』
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariharan0007&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+---
+
+## 『 GitHub Intelligence Metrics 』
+
+<img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=Hariharan0007&show_icons=true&theme=radical&hide_border=true" height="170" />
+<img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=Hariharan0007&layout=compact&theme=radical&hide_border=true" height="170" />
+
+
+</div>
+
+---
+
+
 ## 『 NEURAL METRICS 』
 
 <div align="center">
@@ -61,7 +84,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hariharanprogrammer)
-<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com) -->
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://hariharan0007.github.io/my-portfolio/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariharanhighlevelprogrammer@gmail.com)
 
 </div>
